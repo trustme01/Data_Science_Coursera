@@ -2,4 +2,4 @@
 
 ## Course
 Course Number | Course | Repo Link | Blog
---- | --- | --- | --- |
+--- | --- | --- | --- 
